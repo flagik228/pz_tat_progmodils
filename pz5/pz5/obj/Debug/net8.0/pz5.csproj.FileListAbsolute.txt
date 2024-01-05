@@ -1,0 +1,14 @@
+C:\Users\FlaGik\source\repos\pz5\pz5\bin\Debug\net8.0\pz5.exe
+C:\Users\FlaGik\source\repos\pz5\pz5\bin\Debug\net8.0\pz5.deps.json
+C:\Users\FlaGik\source\repos\pz5\pz5\bin\Debug\net8.0\pz5.runtimeconfig.json
+C:\Users\FlaGik\source\repos\pz5\pz5\bin\Debug\net8.0\pz5.dll
+C:\Users\FlaGik\source\repos\pz5\pz5\bin\Debug\net8.0\pz5.pdb
+C:\Users\FlaGik\source\repos\pz5\pz5\obj\Debug\net8.0\pz5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FlaGik\source\repos\pz5\pz5\obj\Debug\net8.0\pz5.AssemblyInfoInputs.cache
+C:\Users\FlaGik\source\repos\pz5\pz5\obj\Debug\net8.0\pz5.AssemblyInfo.cs
+C:\Users\FlaGik\source\repos\pz5\pz5\obj\Debug\net8.0\pz5.csproj.CoreCompileInputs.cache
+C:\Users\FlaGik\source\repos\pz5\pz5\obj\Debug\net8.0\pz5.dll
+C:\Users\FlaGik\source\repos\pz5\pz5\obj\Debug\net8.0\refint\pz5.dll
+C:\Users\FlaGik\source\repos\pz5\pz5\obj\Debug\net8.0\pz5.pdb
+C:\Users\FlaGik\source\repos\pz5\pz5\obj\Debug\net8.0\pz5.genruntimeconfig.cache
+C:\Users\FlaGik\source\repos\pz5\pz5\obj\Debug\net8.0\ref\pz5.dll
