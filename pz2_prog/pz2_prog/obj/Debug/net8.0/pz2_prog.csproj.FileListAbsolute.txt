@@ -1,0 +1,14 @@
+C:\Users\FlaGik\source\repos\pz2_prog\pz2_prog\bin\Debug\net8.0\pz2_prog.exe
+C:\Users\FlaGik\source\repos\pz2_prog\pz2_prog\bin\Debug\net8.0\pz2_prog.deps.json
+C:\Users\FlaGik\source\repos\pz2_prog\pz2_prog\bin\Debug\net8.0\pz2_prog.runtimeconfig.json
+C:\Users\FlaGik\source\repos\pz2_prog\pz2_prog\bin\Debug\net8.0\pz2_prog.dll
+C:\Users\FlaGik\source\repos\pz2_prog\pz2_prog\bin\Debug\net8.0\pz2_prog.pdb
+C:\Users\FlaGik\source\repos\pz2_prog\pz2_prog\obj\Debug\net8.0\pz2_prog.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FlaGik\source\repos\pz2_prog\pz2_prog\obj\Debug\net8.0\pz2_prog.AssemblyInfoInputs.cache
+C:\Users\FlaGik\source\repos\pz2_prog\pz2_prog\obj\Debug\net8.0\pz2_prog.AssemblyInfo.cs
+C:\Users\FlaGik\source\repos\pz2_prog\pz2_prog\obj\Debug\net8.0\pz2_prog.csproj.CoreCompileInputs.cache
+C:\Users\FlaGik\source\repos\pz2_prog\pz2_prog\obj\Debug\net8.0\pz2_prog.dll
+C:\Users\FlaGik\source\repos\pz2_prog\pz2_prog\obj\Debug\net8.0\refint\pz2_prog.dll
+C:\Users\FlaGik\source\repos\pz2_prog\pz2_prog\obj\Debug\net8.0\pz2_prog.pdb
+C:\Users\FlaGik\source\repos\pz2_prog\pz2_prog\obj\Debug\net8.0\pz2_prog.genruntimeconfig.cache
+C:\Users\FlaGik\source\repos\pz2_prog\pz2_prog\obj\Debug\net8.0\ref\pz2_prog.dll
