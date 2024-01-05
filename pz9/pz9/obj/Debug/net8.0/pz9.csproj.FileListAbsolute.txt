@@ -1,0 +1,14 @@
+C:\Users\FlaGik\source\repos\pz9\pz9\bin\Debug\net8.0\pz9.exe
+C:\Users\FlaGik\source\repos\pz9\pz9\bin\Debug\net8.0\pz9.deps.json
+C:\Users\FlaGik\source\repos\pz9\pz9\bin\Debug\net8.0\pz9.runtimeconfig.json
+C:\Users\FlaGik\source\repos\pz9\pz9\bin\Debug\net8.0\pz9.dll
+C:\Users\FlaGik\source\repos\pz9\pz9\bin\Debug\net8.0\pz9.pdb
+C:\Users\FlaGik\source\repos\pz9\pz9\obj\Debug\net8.0\pz9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FlaGik\source\repos\pz9\pz9\obj\Debug\net8.0\pz9.AssemblyInfoInputs.cache
+C:\Users\FlaGik\source\repos\pz9\pz9\obj\Debug\net8.0\pz9.AssemblyInfo.cs
+C:\Users\FlaGik\source\repos\pz9\pz9\obj\Debug\net8.0\pz9.csproj.CoreCompileInputs.cache
+C:\Users\FlaGik\source\repos\pz9\pz9\obj\Debug\net8.0\pz9.dll
+C:\Users\FlaGik\source\repos\pz9\pz9\obj\Debug\net8.0\refint\pz9.dll
+C:\Users\FlaGik\source\repos\pz9\pz9\obj\Debug\net8.0\pz9.pdb
+C:\Users\FlaGik\source\repos\pz9\pz9\obj\Debug\net8.0\pz9.genruntimeconfig.cache
+C:\Users\FlaGik\source\repos\pz9\pz9\obj\Debug\net8.0\ref\pz9.dll
