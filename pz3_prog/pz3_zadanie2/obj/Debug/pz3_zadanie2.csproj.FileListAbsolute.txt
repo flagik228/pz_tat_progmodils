@@ -1,0 +1,7 @@
+C:\Users\FlaGik\source\repos\pz3_prog\pz3_zadanie2\bin\Debug\pz3_zadanie2.exe.config
+C:\Users\FlaGik\source\repos\pz3_prog\pz3_zadanie2\bin\Debug\pz3_zadanie2.exe
+C:\Users\FlaGik\source\repos\pz3_prog\pz3_zadanie2\bin\Debug\pz3_zadanie2.pdb
+C:\Users\FlaGik\source\repos\pz3_prog\pz3_zadanie2\obj\Debug\pz3_zadanie2.csproj.AssemblyReference.cache
+C:\Users\FlaGik\source\repos\pz3_prog\pz3_zadanie2\obj\Debug\pz3_zadanie2.csproj.CoreCompileInputs.cache
+C:\Users\FlaGik\source\repos\pz3_prog\pz3_zadanie2\obj\Debug\pz3_zadanie2.exe
+C:\Users\FlaGik\source\repos\pz3_prog\pz3_zadanie2\obj\Debug\pz3_zadanie2.pdb

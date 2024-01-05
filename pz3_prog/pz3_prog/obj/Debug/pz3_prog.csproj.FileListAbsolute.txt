@@ -1,0 +1,7 @@
+C:\Users\FlaGik\source\repos\pz3_prog\pz3_prog\bin\Debug\pz3_prog.exe.config
+C:\Users\FlaGik\source\repos\pz3_prog\pz3_prog\bin\Debug\pz3_prog.exe
+C:\Users\FlaGik\source\repos\pz3_prog\pz3_prog\bin\Debug\pz3_prog.pdb
+C:\Users\FlaGik\source\repos\pz3_prog\pz3_prog\obj\Debug\pz3_prog.csproj.AssemblyReference.cache
+C:\Users\FlaGik\source\repos\pz3_prog\pz3_prog\obj\Debug\pz3_prog.csproj.CoreCompileInputs.cache
+C:\Users\FlaGik\source\repos\pz3_prog\pz3_prog\obj\Debug\pz3_prog.exe
+C:\Users\FlaGik\source\repos\pz3_prog\pz3_prog\obj\Debug\pz3_prog.pdb
